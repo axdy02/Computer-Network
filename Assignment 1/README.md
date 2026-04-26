@@ -1,8 +1,8 @@
 # ENCS304 – Computer Networks
 ## Assignment 1: Basic Network Topologies Using Switches and Hubs
 
-**Name:** Lavnish Pandey
-**Roll No.:** 2301010181
+**Name:** ANSH KAPOOR
+**Roll No.:** 2301010175
 **Programme:** B.Tech Computer Science & Engineering
 **Section:** C
 **Date:** 27 February 2026
